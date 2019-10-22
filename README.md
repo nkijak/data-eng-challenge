@@ -12,6 +12,7 @@ python -m coin_market.cli create_tables
 python -m coin_market.cli load_historical_data <symbol>
 ```
 The above commands use the following ENV configuration along with flag arguments
+
 | ENV         | flag     | description                 |
 |-------------|----------|-----------------------------|
 | API_KEY     |          | CoinAPIio api key           |
