@@ -1,2 +1,6 @@
 Flask==1.1.1
 Flask-SQLAlchemy==2.4.1
+fire==0.2.1
+requests==2.22.0
+psycopg2==2.8.4
+
